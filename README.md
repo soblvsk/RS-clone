@@ -4,13 +4,14 @@ ___Этот проект был удален с github из-за письма о
 Многопользовательская игра Gwent (версия из The Witcher 3) с возможностью регистрации и сохранения собранной колоды. Данный контент был взят из игры The Witcher 3 для учебных целей.
 
 ## 📜 Information
-1.Task:https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md 
+1. Task:https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md 
 
-2.Screenshots:
+2. Screenshots:
 ![image](https://github.com/soblvsk/RS-clone/assets/81454805/1733cda9-16ac-43ed-b578-5da02bc4b111)
 ![image](https://github.com/soblvsk/RS-clone/assets/81454805/d7a5d764-57a0-440e-9a4b-6f27f2d90aef)
 ![image](https://github.com/soblvsk/RS-clone/assets/81454805/ccd74728-a7b7-439f-87ac-8e0a4182f627)
-3. Deploy: https://gwent-rs-clone.netlify.app/
+
+3. Deploy: https://gwent-rs-clone.netlify.app/ 
 4. Start Date 31.01.2022 / Done 28.02.2022 / Deadline 28.02.2023
 5. Score: 620/620
 
