@@ -142,8 +142,8 @@
 
 ## ⚙️ Tech Stack
 
-- HTML5
-- Sass/SCSS
+- HTML
+- SCSS
 - TypeScript
 - Vue.js
 - Vite
