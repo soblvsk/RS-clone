@@ -16,8 +16,8 @@
 ![image](https://github.com/soblvsk/RS-clone/assets/81454805/d7a5d764-57a0-440e-9a4b-6f27f2d90aef)
 ![image](https://github.com/soblvsk/RS-clone/assets/81454805/ccd74728-a7b7-439f-87ac-8e0a4182f627)
 
-3. Deploy: https://gwent-rs-clone.netlify.app/ 
-4. Start Date 31.01.2022 / Done 28.02.2022 / Deadline 28.02.2023
+3. Deploy: -
+4. Start Date 31.01.2022 / Done 28.02.2022 / Deadline 28.02.2022
 5. Score: 620/620
 
 ## 📌 Application functionality
@@ -142,16 +142,13 @@
 
 ## ⚙️ Tech Stack
 
-- HTML
-- SCSS
-- TypeScript
-- Vue.js
-- Vite
+- Vue 3
 - Pinia
+- TypeScript
+- SCSS
+- Vite
 - Prettier
 - ESLint
-- GitHub Projects
-- Netlify
 
 ## 👀 Authors
 
